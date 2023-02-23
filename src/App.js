@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          beluyencode
+          beluyencode.online
         </a>
       </header>
     </div>
